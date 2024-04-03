@@ -1,6 +1,7 @@
 # MediaProject-Unifil
-# Facilidades que a Orientação a Objetos me trouxe
 <br>
+
+# Facilidades que a Orientação a Objetos trouxe para o meu projeto
 
 ## Classe Abstrata
 <p>Eu decidi utilizar uma classe abtrata pela facilidade e por conta do reaproveitamento de código. Já que os meus outros dois objetos vão ser extendidos por essa classe abstrata e poderão, por meio do polimorfismo, utlizar as propriedade dessa classe.</p>
