@@ -1,6 +1,6 @@
 package org.example.project_media.repositories;
 
-import org.example.project_media.Models.Director;
+import org.example.project_media.models.Director;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

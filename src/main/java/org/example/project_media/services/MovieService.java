@@ -1,6 +1,6 @@
 package org.example.project_media.services;
 
-import org.example.project_media.Models.Movie;
+import org.example.project_media.models.Movie;
 import org.example.project_media.repositories.MovieRepository;
 import org.example.project_media.services.interfaces.CrudInterface;
 import org.springframework.beans.factory.annotation.Autowired;

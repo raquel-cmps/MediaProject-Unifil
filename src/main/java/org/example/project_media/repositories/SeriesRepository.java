@@ -1,6 +1,6 @@
 package org.example.project_media.repositories;
 
-import org.example.project_media.Models.Series;
+import org.example.project_media.models.Series;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

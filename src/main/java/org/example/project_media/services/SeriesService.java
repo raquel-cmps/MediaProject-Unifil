@@ -1,6 +1,6 @@
 package org.example.project_media.services;
 
-import org.example.project_media.Models.Series;
+import org.example.project_media.models.Series;
 import org.example.project_media.repositories.SeriesRepository;
 import org.example.project_media.services.interfaces.CrudInterface;
 import org.springframework.beans.factory.annotation.Autowired;

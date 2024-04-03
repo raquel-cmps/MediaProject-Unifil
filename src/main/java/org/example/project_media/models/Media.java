@@ -1,4 +1,4 @@
-package org.example.project_media.Models;
+package org.example.project_media.models;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.MappedSuperclass;

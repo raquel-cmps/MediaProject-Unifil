@@ -1,7 +1,7 @@
 package org.example.project_media.controllers;
 
 import jakarta.validation.Valid;
-import org.example.project_media.Models.Movie;
+import org.example.project_media.models.Movie;
 import org.example.project_media.services.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
